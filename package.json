@@ -1,6 +1,6 @@
 {
   "name": "nuxt-goodshare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal nuxt module based on vue-goodshare",
   "main": "src/",
   "scripts": {
