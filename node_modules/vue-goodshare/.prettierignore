@@ -1,9 +1,0 @@
-.idea/
-.github/
-.editorconfig
-.gitignore
-.prettierignore
-package-lock.json
-node_modules/
-**/*.html
-*.md
