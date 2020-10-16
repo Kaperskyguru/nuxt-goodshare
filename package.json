@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-goodshare",
+  "version": "1.0.0",
+  "description": "A minimal nuxt module based on vue-goodshare",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaperskyguru/nuxt-goodshare.git"
+  },
+  "keywords": [
+    "social-share",
+    "goodshare",
+    "nuxt",
+    "facebook",
+    "twitter",
+    "linkedin"
+  ],
+  "author": "Solomon Eseme",
+  "license": "ISC",
+  "dependencies": {
+    "vue-goodshare": "^1.5.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.3"
+  }
+}
